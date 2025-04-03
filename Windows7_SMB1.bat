@@ -1,3 +1,4 @@
+:: Run as administrator
 @echo off
 setlocal EnableDelayedExpansion
 
